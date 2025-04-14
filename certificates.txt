@@ -1,0 +1,7 @@
+Apple Development: John Doe (ABCDE12345)
+
+Apple Distribution: MyCompany Inc. (XYZ98765)
+
+CN=Android Debug, O=Android, C=US (Android Debug Certificate)
+
+CN=MyCompany Production, OU=Mobile Team, O=MyCompany, L=City, ST=State, C=US
